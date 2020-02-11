@@ -1,4 +1,4 @@
-# Avro2
+# Avro3
 Plugin to enable Avro as a target in Hackolade data modeling.
 
 <div class="main-content">
